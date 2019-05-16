@@ -3,4 +3,4 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
-rootProject.name = 'gradle-last-chance'
+rootProject.name = 'Example1'
